@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arin Kaushik
 ## 💫 About Me:
-🔭Trying to be a data analyst<br>📚 Loves learning new things<br>🕹 Love Python and MS Excel
+🔭Trying to be a data analyst<br>📚 hungry learner  <br>🕹 Love Python and MS Excel
 
 
 ## 🌐 Socials:
