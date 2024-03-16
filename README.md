@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi 👋, I'm Arin Kaushik
+A guy interested in Game Development and other fun things.
+mayankp2100
 
-<!--
-**ArinAkaMazu/ArinAkaMazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mayankp2100
 
-Here are some ideas to get you started:
+👨‍💻 All of my projects are available at https://github.com/ArinAkaMazu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Unity, Python, Kotlin, etc
+
+📫 How to reach me Discord: May~#7424
+
+Connect with me:
+mayankp2100 mayank8722 #7274
+
+Languages and Tools:
+blender bootstrap csharp css3 dart dotnet firebase flask flutter git go heroku html5 javascript mysql python react unity
+
+mayankp2100
+
+ mayankp2100
+
+mayankp2100
