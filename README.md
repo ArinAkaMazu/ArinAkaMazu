@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arin</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-- 🔭 I’m currently working on **Getting my first job**
+- 🔭 I’m currently working as a **Data Analyst**
 
 - 📫 How to reach me **arinkaushik60@gmail.com**
 
